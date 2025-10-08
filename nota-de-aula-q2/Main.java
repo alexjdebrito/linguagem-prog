@@ -10,7 +10,7 @@ public class Main {
 
         int opcao;
         do {
-            System.out.println("\n=== MENU BANCO ===");
+            System.out.println("\n___ MENU BANCO ___");
             System.out.println("1 - Consultar saldo");
             System.out.println("2 - Depositar");
             System.out.println("3 - Sacar");
